@@ -5,7 +5,9 @@ The $h_2^V$ form factor arise from three diferent contributions: $\mathcal{F}$ (
 $$h_2^V(p^2)=\mathcal{F}+\mathcal{W}+\mathcal{HZ},$$
 For more details see: (-----).
 
-The files are in Mathemathica notebooks, and in LoopTools notation.
+The files are in Mathemathica notebooks, and in LoopTools notation. We use the following notation:
+$$m_f$$-fermions mass,
+$$Nf$$-Number of flavors,  
 
 Please cite (-----) if our repository  is used in yoour research.
 
