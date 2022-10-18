@@ -8,7 +8,10 @@ For more details see: (-----).
 The files are in Mathemathica notebooks, and in LoopTools notation. We use the following notation:
 $m_f$-fermions mass,
 $N_f$-Number of flavors,  
+t-fermions weak isospin,
+q- electric charge
+sw2- squared sine of the Weinberg angle,
 
-Please cite (-----) if our repository  is used in yoour research.
+Please cite (-----) if our repository  is used in your research.
 
 For any questions, please contact Alan I. Hernández (alaban7_3@hotmail).
