@@ -6,7 +6,7 @@ $$h_2^V(p^2)=\mathcal{F}+\mathcal{W}+\mathcal{HZ},$$
 For more details see: (-----).
 
 The files are in Mathemathica notebooks, and in LoopTools notation. We use the following notation:
-$$m_f$$ fermions mass,
+$$m_f \text{ff}$$ fermions mass,
 $$Nf$$ Number of flavors,  
 
 Please cite (-----) if our repository  is used in yoour research.
