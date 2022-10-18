@@ -10,9 +10,10 @@ $m_f$-fermions mass,
 $N_f$-Number of flavors, $t$-fermions weak isospin,
 $q$- electric charge,
 $sw2$- squared sine of the Weinberg angle, 
+$cw$- cosine of the Weinberg angle, 
 $mz$-Z boson mass, 
 $mw$- W bosomass, 
-H-Higgs boson mass
+H-Higgs boson mass.
 
 Please cite (-----) if our repository  is used in your research.
 
